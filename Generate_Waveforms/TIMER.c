@@ -7,8 +7,6 @@
 
 #include "TIMER.h"
 
-
-
 void TIMER0_CTC_wave_nonpwm(void)
 {
 	//determine CTC mode
